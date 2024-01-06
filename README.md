@@ -36,4 +36,3 @@ you can also find our app apk in /public/Flame.apk
 <a href="https://youtu.be/9omGixswkIg" download>Presentation Video</a><br>
 <a href="https://docs.google.com/presentation/d/10XL5guyf8fEefWKzvZXw-FuNtdfX7Rj6RXNAHHwG_Q4/edit#slide=id.g17f77be277a_0_7" download>Presentation Slides</a><br>
 
->>>>>>> master
